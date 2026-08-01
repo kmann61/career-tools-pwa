@@ -1,1 +1,1 @@
-{ "buildCommand": "", "outputDirectory": "public", "ignoreCommand": "exit 0" } 
+{ "framework": "static", "buildCommand": "", "outputDirectory": "public" } 
