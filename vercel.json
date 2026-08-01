@@ -1,1 +1,1 @@
-{ "framework": "static", "buildCommand": "", "outputDirectory": "public" } 
+{ "buildCommand": "build.sh", "outputDirectory": "public" } 
