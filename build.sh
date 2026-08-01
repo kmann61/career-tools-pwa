@@ -1,1 +1,1 @@
-echo "Build complete" 
+exit 0 
